@@ -1,0 +1,240 @@
+--------------------------------------------------------------------------------------------- Problem: 1
+[BFS | Problem: 1] := Path cost (depth - 1): 8 | Difference: 0 | Nodes: 1001 | ~211ms elapsed | AR3 CL3 OD3 PU1 BU1 RL2 QD2 XR5
+[ID  | Problem: 1] := Path cost (depth - 1): 8 | Difference: 0 | Nodes: 1048 | ~475ms elapsed | CL3 OD3 AR1 PU1 BU1 RL2 QD2 XR5
+[A*  | Problem: 1] := Path cost (depth - 1): 8 | Difference: 0 | Nodes: 965 | ~468ms elapsed | AR3 PU1 BU1 RL2 CL3 QD2 OD3 XR5
+[GHC | Problem: 1] := Path cost (depth - 1): 0 | Difference: -8 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 1] := Path cost (depth - 1): 3 | Difference: -5 | Nodes: 6 | ~1ms elapsed | 6 restarts | 3 steps
+--------------------------------------------------------------------------------------------- Problem: 2
+[BFS | Problem: 2] := Path cost (depth - 1): 8 | Difference: 0 | Nodes: 2383 | ~997ms elapsed | EL1 PD2 XR1 AD1 OL3 BU1 CU2 XR5
+[ID  | Problem: 2] := Path cost (depth - 1): 8 | Difference: 0 | Nodes: 1738 | ~571ms elapsed | XR1 EL1 PD2 AD1 OL3 CU2 BU1 XR5
+[A*  | Problem: 2] := Path cost (depth - 1): 8 | Difference: 0 | Nodes: 1132 | ~524ms elapsed | EL1 PD2 XR1 AD1 OL3 CU2 BU1 XR5
+[GHC | Problem: 2] := Path cost (depth - 1): 1 | Difference: -7 | Nodes: 1 | ~0ms elapsed | 1 steps
+[RHC | Problem: 2] := Path cost (depth - 1): 4 | Difference: -4 | Nodes: 15 | ~3ms elapsed | 15 restarts | 4 steps
+--------------------------------------------------------------------------------------------- Problem: 3
+[BFS | Problem: 3] := Path cost (depth - 1): 14 | Difference: 0 | Nodes: 698 | ~82ms elapsed | OU2 PU3 AR3 BU1 CL2 OD3 XR2 BU3 XL3 OU3 AL4 OD3 PD3 XR6
+[ID  | Problem: 3] := Path cost (depth - 1): 14 | Difference: 0 | Nodes: 680 | ~784ms elapsed | PU3 OU2 CR2 AR3 OD3 XR1 BU4 XL1 OU3 CL3 AL3 PD3 OD3 XR5
+[A*  | Problem: 3] := Path cost (depth - 1): 14 | Difference: 0 | Nodes: 666 | ~114ms elapsed | PU3 CR2 OU2 AR3 OD3 XR1 BU4 XL1 OU3 AL4 CL3 OD3 PD3 XR5
+[GHC | Problem: 3] := Path cost (depth - 1): 0 | Difference: -14 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 3] := Path cost (depth - 1): 3 | Difference: -11 | Nodes: 5 | ~0ms elapsed | 5 restarts | 3 steps
+--------------------------------------------------------------------------------------------- Problem: 4
+[BFS | Problem: 4] := Path cost (depth - 1): 9 | Difference: 0 | Nodes: 334 | ~29ms elapsed | OD3 XL1 AU3 XR1 OU3 QL3 RL2 PD3 XR5
+[ID  | Problem: 4] := Path cost (depth - 1): 9 | Difference: 0 | Nodes: 294 | ~53ms elapsed | OD3 XL1 AU3 XR1 OU3 RL2 QL3 PD3 XR5
+[A*  | Problem: 4] := Path cost (depth - 1): 9 | Difference: 0 | Nodes: 279 | ~30ms elapsed | OD3 XL1 AU3 XR1 OU3 RL2 QL3 PD3 XR5
+[GHC | Problem: 4] := Path cost (depth - 1): 0 | Difference: -9 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 4] := Path cost (depth - 1): 2 | Difference: -7 | Nodes: 12 | ~1ms elapsed | 16 restarts | 2 steps
+--------------------------------------------------------------------------------------------- Problem: 5
+[BFS | Problem: 5] := Path cost (depth - 1): 9 | Difference: 0 | Nodes: 1662 | ~532ms elapsed | AR1 EL3 FL3 GD2 PU1 QD2 RL1 OD3 XR5
+[ID  | Problem: 5] := Path cost (depth - 1): 9 | Difference: 0 | Nodes: 1763 | ~788ms elapsed | FL3 EL3 QD2 GD1 AR1 PU1 RL1 OD3 XR5
+[A*  | Problem: 5] := Path cost (depth - 1): 9 | Difference: 0 | Nodes: 1250 | ~638ms elapsed | EL3 FL3 QD2 AR1 PU1 RL1 OD3 GD1 XR5
+[GHC | Problem: 5] := Path cost (depth - 1): 0 | Difference: -9 | Nodes: 0 | ~1ms elapsed | 0 steps
+[RHC | Problem: 5] := Path cost (depth - 1): 4 | Difference: -5 | Nodes: 28 | ~3ms elapsed | 25 restarts | 4 steps
+--------------------------------------------------------------------------------------------- Problem: 6
+[BFS | Problem: 6] := Path cost (depth - 1): 9 | Difference: 0 | Nodes: 1533 | ~404ms elapsed | XL1 EU3 DR1 FU1 RL3 OD2 PD2 QD1 XR6
+[ID  | Problem: 6] := Path cost (depth - 1): 9 | Difference: 0 | Nodes: 1358 | ~858ms elapsed | XL1 EU3 DR1 FU1 RL3 QD1 PD2 OD2 XR6
+[A*  | Problem: 6] := Path cost (depth - 1): 9 | Difference: 0 | Nodes: 1030 | ~511ms elapsed | XL1 EU3 DR1 FU1 RL3 QD1 PD2 OD2 XR6
+[GHC | Problem: 6] := Path cost (depth - 1): 0 | Difference: -9 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 6] := Path cost (depth - 1): 3 | Difference: -6 | Nodes: 5 | ~1ms elapsed | 3 restarts | 3 steps
+--------------------------------------------------------------------------------------------- Problem: 7
+[BFS | Problem: 7] := Path cost (depth - 1): 13 | Difference: 0 | Nodes: 3829 | ~2070ms elapsed | CD4 FD2 DD2 BR2 EU1 XR2 AD4 XL3 ED1 BL4 DU2 EU1 XR6
+[ID  | Problem: 7] := Path cost (depth - 1): 13 | Difference: 0 | Nodes: 3437 | ~3425ms elapsed | FD1 DD1 CD3 BR2 EU1 XR1 AD3 XL1 ED1 BL3 EU1 DU1 XR5
+[A*  | Problem: 7] := Path cost (depth - 1): 13 | Difference: 0 | Nodes: 2277 | ~1692ms elapsed | FD2 CD4 DD2 BR2 EU1 XR1 AD3 XL1 ED1 BL3 DU2 EU1 XR5
+[GHC | Problem: 7] := Path cost (depth - 1): 1 | Difference: -12 | Nodes: 1 | ~0ms elapsed | 1 steps
+[RHC | Problem: 7] := Path cost (depth - 1): 3 | Difference: -10 | Nodes: 6 | ~0ms elapsed | 5 restarts | 3 steps
+--------------------------------------------------------------------------------------------- Problem: 8
+[BFS | Problem: 8] := Path cost (depth - 1): 12 | Difference: 0 | Nodes: 950 | ~145ms elapsed | AL3 BL2 CU1 DU2 EU2 GL1 XR3 IU2 PL1 QL1 OD3 XR3
+[ID  | Problem: 8] := Path cost (depth - 1): 12 | Difference: 0 | Nodes: 959 | ~1022ms elapsed | BL2 AL3 EU2 GL1 DU2 CU1 XR3 IU2 QL1 PL1 OD3 XR3
+[A*  | Problem: 8] := Path cost (depth - 1): 12 | Difference: 0 | Nodes: 917 | ~309ms elapsed | AL3 BL2 EU2 DU2 CU1 XR3 IU2 GL1 QL1 PL1 OD3 XR3
+[GHC | Problem: 8] := Path cost (depth - 1): 0 | Difference: -12 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 8] := Path cost (depth - 1): 1 | Difference: -11 | Nodes: 444 | ~66ms elapsed | 468 restarts | 1 steps
+--------------------------------------------------------------------------------------------- Problem: 9
+[BFS | Problem: 9] := Path cost (depth - 1): 12 | Difference: 0 | Nodes: 631 | ~83ms elapsed | OD1 XR1 PU3 QL1 DD3 EL2 XR2 AD1 BL1 CL1 FU2 XR3
+[ID  | Problem: 9] := Path cost (depth - 1): 12 | Difference: 0 | Nodes: 402 | ~218ms elapsed | XR1 PU3 QL1 OD1 DD2 XR1 EL1 AD1 BL1 CL1 FU2 XR4
+[A*  | Problem: 9] := Path cost (depth - 1): 12 | Difference: 0 | Nodes: 548 | ~108ms elapsed | XR1 PU3 QL1 DD2 EL1 XR1 AD1 BL1 CL1 FU2 OD1 XR4
+[GHC | Problem: 9] := Path cost (depth - 1): 1 | Difference: -11 | Nodes: 1 | ~0ms elapsed | 1 steps
+[RHC | Problem: 9] := Path cost (depth - 1): 3 | Difference: -9 | Nodes: 22 | ~4ms elapsed | 32 restarts | 3 steps
+--------------------------------------------------------------------------------------------- Problem: 10
+[BFS | Problem: 10] := Path cost (depth - 1): 17 | Difference: 0 | Nodes: 1735 | ~369ms elapsed | CL1 OU1 QR2 XR2 BD4 AR1 DR1 PU2 QL3 OD1 CR1 XL2 EU4 FL1 HL1 OD2 XR5
+[ID  | Problem: 10] := Path cost (depth - 1): 17 | Difference: 0 | Nodes: 1713 | ~3036ms elapsed | XR2 CL1 OU1 QR2 BD4 XL2 DR1 AR1 PU2 QL3 OD1 CR1 EU4 HL1 FL1 OD2 XR5
+[A*  | Problem: 10] := Path cost (depth - 1): 17 | Difference: 0 | Nodes: 1649 | ~604ms elapsed | CL1 OU1 XR2 QR2 BD4 XL2 DR1 AR1 PU2 QL3 EU3 FL1 HL1 OD3 CR1 EU1 XR5
+[GHC | Problem: 10] := Path cost (depth - 1): 0 | Difference: -17 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 10] := Path cost (depth - 1): 1 | Difference: -16 | Nodes: 2 | ~4ms elapsed | 55 restarts | 1 steps
+--------------------------------------------------------------------------------------------- Problem: 11
+[BFS | Problem: 11] := Path cost (depth - 1): 25 | Difference: 0 | Nodes: 798 | ~85ms elapsed | OD3 XL1 BU2 QL2 EU3 QR2 RR1 BD3 XR1 OU3 QL3 PD2 AR3 PU2 QR3 OD3 XL1 BU4 XR1 OU3 QL3 ED2 RL3 PD3 XR5
+[ID  | Problem: 11] := Path cost (depth - 1): 25 | Difference: 0 | Nodes: 815 | ~3074ms elapsed | OD3 XL1 BU2 QL1 EU3 RR1 QR1 BD3 XR1 OU3 QL3 PD1 AR3 PU1 QR3 OD3 XL1 BU4 XR1 OU3 RL3 QL3 PD3 ED2 XR5
+[A*  | Problem: 11] := Path cost (depth - 1): 26 | Difference: 1 | Nodes: 750 | ~121ms elapsed | OD3 XL1 BU2 QL1 EU4 QR1 RR1 BD3 XR1 OU3 QL3 PD1 ED1 AR3 PU1 QR3 OD3 XL1 BU4 XR1 OU3 RL3 QL3 PD3 ED2 XR5
+[GHC | Problem: 11] := Path cost (depth - 1): 0 | Difference: -25 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 11] := Path cost (depth - 1): 2 | Difference: -23 | Nodes: 106 | ~16ms elapsed | 180 restarts | 2 steps
+--------------------------------------------------------------------------------------------- Problem: 12
+[BFS | Problem: 12] := Path cost (depth - 1): 17 | Difference: 0 | Nodes: 1148 | ~178ms elapsed | BR2 PU1 QL3 CU3 QR3 RR3 PD3 BL2 CU1 XR3 AD4 BL1 PU3 QL3 RL2 OD3 XR3
+[ID  | Problem: 12] := Path cost (depth - 1): 17 | Difference: 0 | Nodes: 1041 | ~1184ms elapsed | BR2 PU1 QL2 CU3 RR3 QR2 PD3 XR1 AD1 BL3 CU1 XR2 PU3 RL1 QL1 OD3 XR3
+[A*  | Problem: 12] := Path cost (depth - 1): 17 | Difference: 0 | Nodes: 781 | ~143ms elapsed | BR2 PU1 QL2 CU3 QR2 RR3 PD3 BL1 CU1 XR3 AD4 BL2 PU3 QL1 RL1 OD3 XR3
+[GHC | Problem: 12] := Path cost (depth - 1): 0 | Difference: -17 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 12] := Path cost (depth - 1): 2 | Difference: -15 | Nodes: 46 | ~6ms elapsed | 53 restarts | 2 steps
+--------------------------------------------------------------------------------------------- Problem: 13
+[BFS | Problem: 13] := Path cost (depth - 1): 16 | Difference: 0 | Nodes: 7556 | ~6804ms elapsed | DD2 ED1 OU1 FR1 XL3 DU2 GU3 FL2 HL2 CD3 KL1 OD3 BR2 DU1 GU1 XR6
+[ID  | Problem: 13] := Path cost (depth - 1): 16 | Difference: 0 | Nodes: 6969 | ~8322ms elapsed | OU1 FR1 ED1 DD2 XL3 GU3 KL1 DU2 HL2 FL2 OD3 CD3 BR2 GU1 DU1 XR6
+[A*  | Problem: 13] := Path cost (depth - 1): 16 | Difference: 0 | Nodes: 4897 | ~4857ms elapsed | DD2 ED1 XL3 OU1 FR1 GU3 KL1 DU2 FL2 HL2 OD3 CD3 BR2 GU1 DU1 XR6
+[GHC | Problem: 13] := Path cost (depth - 1): 0 | Difference: -16 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 13] := Path cost (depth - 1): 3 | Difference: -13 | Nodes: 16 | ~5ms elapsed | 24 restarts | 3 steps
+--------------------------------------------------------------------------------------------- Problem: 14
+[BFS | Problem: 14] := Path cost (depth - 1): 17 | Difference: 0 | Nodes: 8374 | ~10464ms elapsed | DD1 ED1 XL2 BD1 AR4 BU1 XR2 DU3 EU3 HL2 XL2 IU2 JL4 FD2 GD2 ID2 XR6
+[ID  | Problem: 14] := Path cost (depth - 1): 17 | Difference: 0 | Nodes: 6856 | ~5952ms elapsed | EU1 DU1 HL2 IU1 KR3 ID1 HR2 ED3 DD3 XL2 HL2 BD2 CL4 GU2 FU2 BU2 XR6
+[A*  | Problem: 14] := Path cost (depth - 1): 17 | Difference: 0 | Nodes: 5246 | ~6923ms elapsed | DD1 ED1 XL2 BD1 AR4 BU1 XR2 EU3 DU3 XL2 HL2 IU2 JL4 ID2 FD2 GD1 XR6
+[GHC | Problem: 14] := Path cost (depth - 1): 0 | Difference: -17 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 14] := Path cost (depth - 1): 4 | Difference: -13 | Nodes: 9 | ~3ms elapsed | 13 restarts | 4 steps
+--------------------------------------------------------------------------------------------- Problem: 15
+[BFS | Problem: 15] := Path cost (depth - 1): 23 | Difference: 0 | Nodes: 522 | ~49ms elapsed | AL1 BR1 IR1 HR1 QD1 RD1 XL2 EU1 FU1 GL2 OD1 PD1 DR2 EU2 FU2 XR2 QU1 RU1 HL2 IL2 OD1 PD1 XR4
+[ID  | Problem: 15] := Path cost (depth - 1): 23 | Difference: 0 | Nodes: 550 | ~3007ms elapsed | QD1 IR1 HR1 RD1 XL2 FU1 EU1 GL2 PD1 OD1 DR2 BR1 FU2 AL1 EU2 XR2 RU1 QU1 HL2 IL2 PD1 OD1 XR4
+[A*  | Problem: 15] := Path cost (depth - 1): 23 | Difference: 0 | Nodes: 524 | ~70ms elapsed | QD1 BR1 IR1 HR1 AL1 RD1 XL2 FU1 EU1 GL2 PD1 OD1 DR2 EU2 FU2 XR2 QU1 RU1 HL2 IL2 OD1 PD1 XR4
+[GHC | Problem: 15] := Path cost (depth - 1): 0 | Difference: -23 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 15] := Path cost (depth - 1): 3 | Difference: -20 | Nodes: 20 | ~7ms elapsed | 67 restarts | 3 steps
+--------------------------------------------------------------------------------------------- Problem: 16
+[BFS | Problem: 16] := Path cost (depth - 1): 21 | Difference: 0 | Nodes: 2319 | ~567ms elapsed | DD2 EL2 FD1 PD1 XL3 CD1 BR1 PU3 GR2 FD1 QL2 CD3 QR2 FU1 GL2 PD3 XR3 PU3 QL1 OD3 XR3
+[ID  | Problem: 16] := Path cost (depth - 1): 21 | Difference: 0 | Nodes: 2146 | ~9786ms elapsed | PD1 FD1 DD2 XL3 EL2 CD1 BR1 PU3 GR2 FD1 QL2 CD3 QR2 FU1 GL2 PD3 XR3 PU3 QL1 OD3 XR3
+[A*  | Problem: 16] := Path cost (depth - 1): 22 | Difference: 1 | Nodes: 2145 | ~697ms elapsed | GR3 PD1 DD3 EL2 FD2 XL3 CD1 BR1 PU3 GL1 QL2 CD3 DU1 QR2 FU1 GL2 PD3 XR3 PU3 QL1 OD3 XR3
+[GHC | Problem: 16] := Path cost (depth - 1): 0 | Difference: -21 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 16] := Path cost (depth - 1): 2 | Difference: -19 | Nodes: 20 | ~6ms elapsed | 54 restarts | 2 steps
+--------------------------------------------------------------------------------------------- Problem: 17
+[BFS | Problem: 17] := Path cost (depth - 1): 24 | Difference: 0 | Nodes: 2076 | ~550ms elapsed | BL1 FU2 GU2 OR2 PU2 QR3 RR3 DD2 ER1 XR1 AD4 BL1 EL1 XL1 DU4 ER1 XR1 AU2 QL3 FD1 GD1 RL3 PD2 XR5
+[ID  | Problem: 17] := Path cost (depth - 1): 24 | Difference: 0 | Nodes: 2091 | ~9302ms elapsed | OR2 GU2 FU2 BL1 PU2 RR3 QR3 DD2 XR1 ER1 AD4 XL1 EL1 BL1 DU4 XR1 ER1 AU2 RL3 QL3 PD2 GD1 FD1 XR5
+[A*  | Problem: 17] := Path cost (depth - 1): 24 | Difference: 0 | Nodes: 1956 | ~806ms elapsed | BL1 PU2 GU2 FU2 QR3 OR2 RR3 DD2 XR1 ER1 AD4 EL1 BL1 XL1 DU4 XR1 ER1 AU2 RL3 QL3 PD2 FD2 GD2 XR5
+[GHC | Problem: 17] := Path cost (depth - 1): 0 | Difference: -24 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 17] := Path cost (depth - 1): 3 | Difference: -21 | Nodes: 87 | ~16ms elapsed | 113 restarts | 3 steps
+--------------------------------------------------------------------------------------------- Problem: 18
+[BFS | Problem: 18] := Path cost (depth - 1): 25 | Difference: 0 | Nodes: 1538 | ~291ms elapsed | DR3 QR2 RR3 PD1 XL1 BD4 AR1 CR1 XR1 PU3 QL3 OD2 AR3 CR3 OU2 QR3 PD3 XL1 BU4 XR1 PU3 QL3 RL3 OD3 XR5
+[ID  | Problem: 18] := Path cost (depth - 1): 25 | Difference: 0 | Nodes: 1577 | ~4414ms elapsed | RR3 QR2 PD1 XL1 DR3 BD4 XR1 CR1 AR1 PU3 QL3 OD2 CR3 AR3 OU2 QR3 PD3 XL1 BU4 XR1 PU3 RL3 QL3 OD3 XR5
+[A*  | Problem: 18] := Path cost (depth - 1): 25 | Difference: 0 | Nodes: 1549 | ~471ms elapsed | RR3 QR2 PD1 XL1 DR3 BD4 XR1 CR1 AR1 PU3 QL3 OD2 AR3 CR3 OU2 QR3 PD3 XL1 BU4 XR1 PU3 QL3 RL3 OD3 XR5
+[GHC | Problem: 18] := Path cost (depth - 1): 0 | Difference: -25 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 18] := Path cost (depth - 1): 2 | Difference: -23 | Nodes: 8 | ~3ms elapsed | 33 restarts | 2 steps
+--------------------------------------------------------------------------------------------- Problem: 19
+[BFS | Problem: 19] := Path cost (depth - 1): 22 | Difference: 0 | Nodes: 486 | ~39ms elapsed | DU2 EL2 XL2 AD2 BL1 JU1 FU1 OR2 AD2 ER2 XR2 DD4 BL2 EL2 XL2 AU4 ER2 XR2 DU3 OL3 FD2 XR4
+[ID  | Problem: 19] := Path cost (depth - 1): 22 | Difference: 0 | Nodes: 496 | ~2126ms elapsed | DU2 XL2 EL2 AD1 BL1 JU1 FU1 OR2 AD3 XR2 ER2 DD4 XL2 EL2 BL2 AU4 XR2 ER2 DU2 OL2 FD1 XR4
+[A*  | Problem: 19] := Path cost (depth - 1): 22 | Difference: 0 | Nodes: 499 | ~66ms elapsed | DU2 XL2 AD1 BL1 JU1 FU1 OR2 EL2 AD3 ER2 XR2 DD4 XL2 BL2 EL2 AU4 XR2 ER2 DU2 OL2 FD2 XR4
+[GHC | Problem: 19] := Path cost (depth - 1): 0 | Difference: -22 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 19] := Path cost (depth - 1): 1 | Difference: -21 | Nodes: 5 | ~0ms elapsed | 12 restarts | 1 steps
+--------------------------------------------------------------------------------------------- Problem: 20
+[BFS | Problem: 20] := Path cost (depth - 1): 10 | Difference: 0 | Nodes: 1166 | ~220ms elapsed | CD1 BR3 DU2 EU2 FL3 CD1 ED1 QL3 PD1 XR6
+[ID  | Problem: 20] := Path cost (depth - 1): 10 | Difference: 0 | Nodes: 1050 | ~336ms elapsed | CD1 BR2 DU2 EU2 QL1 PD1 FL3 ED1 CD1 XR6
+[A*  | Problem: 20] := Path cost (depth - 1): 10 | Difference: 0 | Nodes: 758 | ~159ms elapsed | CD1 BR3 DU2 EU2 FL3 ED1 CD1 QL1 PD1 XR6
+[GHC | Problem: 20] := Path cost (depth - 1): 0 | Difference: -10 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 20] := Path cost (depth - 1): 4 | Difference: -6 | Nodes: 14 | ~1ms elapsed | 20 restarts | 4 steps
+--------------------------------------------------------------------------------------------- Problem: 21
+[BFS | Problem: 21] := Path cost (depth - 1): 21 | Difference: 0 | Nodes: 254 | ~13ms elapsed | PD2 QR2 XL1 BD4 AR1 XR1 PU3 QL3 OD2 AR3 OU2 QR3 PD3 XL1 BU4 XR1 PU3 QL3 RL3 OD3 XR5
+[ID  | Problem: 21] := Path cost (depth - 1): 21 | Difference: 0 | Nodes: 259 | ~556ms elapsed | QR2 PD2 XL1 BD4 XR1 AR1 PU3 QL3 OD1 AR3 OU1 QR3 PD3 XL1 BU4 XR1 PU3 RL3 QL3 OD3 XR5
+[A*  | Problem: 21] := Path cost (depth - 1): 21 | Difference: 0 | Nodes: 254 | ~20ms elapsed | PD2 QR2 XL1 BD4 XR1 AR1 PU3 QL3 OD1 AR3 OU1 QR3 PD3 XL1 BU4 XR1 PU3 QL3 RL3 OD3 XR5
+[GHC | Problem: 21] := Path cost (depth - 1): 0 | Difference: -21 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 21] := Path cost (depth - 1): 1 | Difference: -20 | Nodes: 13 | ~4ms elapsed | 73 restarts | 1 steps
+--------------------------------------------------------------------------------------------- Problem: 22
+[BFS | Problem: 22] := Path cost (depth - 1): 26 | Difference: 0 | Nodes: 3195 | ~1234ms elapsed | BU1 FU1 GR1 XL1 AD3 XR1 BD1 OL3 PU1 EL1 HU2 GR1 QR2 AD1 DD1 EL2 PD2 CL3 HU2 PU2 ER3 AU1 DU1 QL3 PD3 XR5
+[ID  | Problem: 22] := Path cost (depth - 1): 26 | Difference: 0 | Nodes: 3069 | ~5131ms elapsed | GR1 FU1 BU1 XL1 AD3 XR1 BD1 OL3 PU1 EL1 HU2 QR2 GR1 DD1 AD1 EL2 PD2 CL3 PU2 HU2 ER3 DU1 AU1 QL3 PD3 XR5
+[A*  | Problem: 22] := Path cost (depth - 1): 26 | Difference: 0 | Nodes: 3000 | ~2004ms elapsed | BU1 XL1 GR1 AD3 XR1 BD1 OL3 PU1 EL1 HU2 QR2 DD1 GR1 AD1 EL3 PD2 CL3 HU2 PU2 ER4 FU1 DU1 AU1 QL3 PD3 XR5
+[GHC | Problem: 22] := Path cost (depth - 1): 0 | Difference: -26 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 22] := Path cost (depth - 1): 2 | Difference: -24 | Nodes: 84 | ~21ms elapsed | 164 restarts | 2 steps
+--------------------------------------------------------------------------------------------- Problem: 23
+[BFS | Problem: 23] := Path cost (depth - 1): 29 | Difference: 0 | Nodes: 2235 | ~543ms elapsed | QL2 DD1 EL1 PD1 OR1 AU1 XL3 AD1 OL3 PU1 ER1 DU2 QR3 CD1 AD1 BL3 AU1 DU1 EL4 PD1 OR3 AU1 CU2 FL4 CD1 DD2 QL3 PD2 XR6
+[ID  | Problem: 23] := Path cost (depth - 1): 29 | Difference: 0 | Nodes: 1958 | ~2706ms elapsed | QL2 DD1 EL1 PD1 OR1 AU1 XL3 AD1 OL1 PU1 ER1 DU1 QR3 CD1 AD1 BL3 DU2 EL1 PD1 OR1 AU2 EL3 CU2 QL1 FL4 PD2 DD2 CD1 XR6
+[A*  | Problem: 23] := Path cost (depth - 1): 29 | Difference: 0 | Nodes: 1667 | ~568ms elapsed | QL2 DD1 EL1 PD1 OR1 AU1 XL3 AD1 OL2 PU1 ER1 DU1 QR3 CD1 AD1 BL3 DU2 EL1 PD1 OR2 AU2 EL3 CU2 FL4 CD1 DD2 QL3 PD2 XR6
+[GHC | Problem: 23] := Path cost (depth - 1): 0 | Difference: -29 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 23] := Path cost (depth - 1): 3 | Difference: -26 | Nodes: 9 | ~1ms elapsed | 10 restarts | 3 steps
+--------------------------------------------------------------------------------------------- Problem: 24
+[BFS | Problem: 24] := Path cost (depth - 1): 25 | Difference: 0 | Nodes: 4251 | ~2257ms elapsed | CU1 DU2 FL1 XL2 AD2 BL1 EU2 GU2 HR4 OR3 AD2 FR2 XR2 CD4 DD4 BL2 FL2 XL2 AU4 FR2 XR2 CU3 OL2 GD1 XR4
+[ID  | Problem: 24] := Path cost (depth - 1): 25 | Difference: 0 | Nodes: 4214 | ~36795ms elapsed | DU2 FL1 CU1 XL2 AD1 BL1 EU2 GU2 OR3 HR3 AD3 XR2 FR2 DD4 CD4 XL2 FL2 BL2 AU4 XR2 FR2 CU2 OL2 GD1 XR4
+[A*  | Problem: 24] := Path cost (depth - 1): 25 | Difference: 0 | Nodes: 4107 | ~3936ms elapsed | DU2 CU1 XL2 AD1 BL1 EU2 FL1 GU2 OR3 HR4 AD3 XR2 FR2 DD4 CD4 XL2 FL2 BL2 AU4 FR2 XR2 CU3 OL2 GD1 XR4
+[GHC | Problem: 24] := Path cost (depth - 1): 0 | Difference: -25 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 24] := Path cost (depth - 1): 1 | Difference: -24 | Nodes: 2 | ~2ms elapsed | 17 restarts | 1 steps
+--------------------------------------------------------------------------------------------- Problem: 25
+[BFS | Problem: 25] := Path cost (depth - 1): 27 | Difference: 0 | Nodes: 8268 | ~7718ms elapsed | CL1 EU1 OU1 PD1 QR2 XL1 BD4 AR1 DR1 XR1 PU3 QL3 GU3 IL1 QR3 PD3 AL1 DL1 XL1 BU4 HL2 QL2 ED2 OD3 CR1 GU1 XR6
+[ID  | Problem: 25] := Path cost (depth - 1): 27 | Difference: 0 | Nodes: 8101 | ~27701ms elapsed | PD1 XL1 EU1 CL1 OU1 QR2 BD4 XR1 DR1 AR1 PU3 QL3 GU3 QR3 PD3 XL1 IL1 DL1 AL1 BU4 QL2 HL2 OD3 ED2 CR1 GU1 XR6
+[A*  | Problem: 25] := Path cost (depth - 1): 27 | Difference: 0 | Nodes: 7173 | ~9018ms elapsed | CL1 OU1 EU1 QR2 PD1 XL1 BD4 DR1 XR1 AR1 PU3 QL3 GU3 QR3 PD3 XL1 DL1 AL1 BU4 QL2 IL1 HL2 OD3 CR1 GU1 ED2 XR6
+[GHC | Problem: 25] := Path cost (depth - 1): 0 | Difference: -27 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 25] := Path cost (depth - 1): 3 | Difference: -24 | Nodes: 20 | ~6ms elapsed | 27 restarts | 3 steps
+--------------------------------------------------------------------------------------------- Problem: 26
+[BFS | Problem: 26] := Path cost (depth - 1): 28 | Difference: 0 | Nodes: 4740 | ~2249ms elapsed | DU1 ED1 GU1 HR1 RL1 CD3 XR1 AD1 OL3 DU1 PU1 RR2 AD3 RL2 XL1 CU4 HL1 GD1 RR3 EU1 FU1 XR1 AU3 HL3 FD1 RL2 PD3 XR4
+[ID  | Problem: 26] := Path cost (depth - 1): 28 | Difference: 0 | Nodes: 4598 | ~20003ms elapsed | OL1 ED1 RL1 DU2 GU1 HR1 CD3 XR1 AD1 OL2 PU1 RR2 AD3 XL1 RL2 CU4 XR1 HL1 GD1 RR3 FU1 EU1 AU3 HL3 FD1 RL2 PD3 XR4
+[A*  | Problem: 26] := Path cost (depth - 1): 28 | Difference: 0 | Nodes: 3960 | ~2579ms elapsed | ED1 RL1 CD2 XR1 AD1 OL3 PU1 DU2 GU1 HR1 CD1 RR2 AD3 XL1 RL2 CU4 HL1 GD1 RR3 XR1 FU1 EU1 AU3 HL3 FD1 RL2 PD3 XR4
+[GHC | Problem: 26] := Path cost (depth - 1): 0 | Difference: -28 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 26] := Path cost (depth - 1): 3 | Difference: -25 | Nodes: 182 | ~37ms elapsed | 222 restarts | 3 steps
+--------------------------------------------------------------------------------------------- Problem: 27
+[BFS | Problem: 27] := Path cost (depth - 1): 28 | Difference: 0 | Nodes: 2566 | ~632ms elapsed | PU2 ER1 OD2 BR2 CR2 DU2 XR1 AD4 XL1 DD2 BL3 CL3 DU2 OU2 EL4 DD2 OD2 CR3 DU2 ER1 XR1 AU3 EL1 FU1 RL3 OD1 PD3 XR5
+[ID  | Problem: 27] := Path cost (depth - 1): 28 | Difference: 0 | Nodes: 2576 | ~6484ms elapsed | PU2 ER1 OD2 CR2 BR2 DU2 XR1 AD4 XL1 DD2 CL3 DU1 BL3 OU2 EL4 OD2 DD1 CR3 DU2 XR1 ER1 AU3 EL1 FU1 RL3 PD3 OD1 XR5
+[A*  | Problem: 27] := Path cost (depth - 1): 28 | Difference: 0 | Nodes: 2401 | ~876ms elapsed | PU2 ER1 OD2 BR2 CR2 DU2 XR1 AD4 XL1 DD2 CL3 BL3 DU2 OU2 EL4 OD2 DD2 CR3 DU2 XR1 ER1 AU3 EL1 FU1 RL3 OD1 PD3 XR5
+[GHC | Problem: 27] := Path cost (depth - 1): 0 | Difference: -28 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 27] := Path cost (depth - 1): 2 | Difference: -26 | Nodes: 27 | ~5ms elapsed | 41 restarts | 2 steps
+--------------------------------------------------------------------------------------------- Problem: 28
+[BFS | Problem: 28] := Path cost (depth - 1): 30 | Difference: 0 | Nodes: 1785 | ~389ms elapsed | AD1 OR3 PU1 QU1 GR2 FR2 CD1 DD1 EL3 AD1 BL1 QU1 RR1 PD2 BL3 AU1 PU2 ER3 CU1 DU1 FL2 GL1 PD3 OL3 AU1 XR3 PU2 RL1 QD2 XR3
+[ID  | Problem: 28] := Path cost (depth - 1): 30 | Difference: 0 | Nodes: 1791 | ~3276ms elapsed | QU1 GR2 FR2 DD1 CD1 AD1 OR3 PU1 EL3 AD1 BL1 QU1 RR1 PD2 BL3 PU2 AU1 ER3 DU1 CU1 FL2 PD3 OL3 GL1 AU1 XR3 PU2 RL1 QD2 XR3
+[A*  | Problem: 28] := Path cost (depth - 1): 30 | Difference: 0 | Nodes: 1621 | ~593ms elapsed | QU1 GR2 AD1 OR3 FR2 PU1 DD1 CD1 EL3 AD1 BL1 QU1 RR1 PD2 BL3 AU1 PU2 ER3 CU1 DU1 FL2 PD3 OL3 AU1 XR3 GL1 PU2 RL1 QD2 XR3
+[GHC | Problem: 28] := Path cost (depth - 1): 0 | Difference: -30 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 28] := Path cost (depth - 1): 2 | Difference: -28 | Nodes: 2 | ~0ms elapsed | 1 restarts | 2 steps
+--------------------------------------------------------------------------------------------- Problem: 29
+[BFS | Problem: 29] := Path cost (depth - 1): 31 | Difference: 0 | Nodes: 4319 | ~1887ms elapsed | BU1 ER1 GU3 EL1 FR2 HU1 OR1 RR3 CD1 DL1 AD3 DR1 XR1 CU4 DL1 XL1 AU3 FL3 RL3 HD1 ER1 GD3 EL2 PD3 OR2 AU1 XR3 AD1 OL2 BU1 XR3
+[ID  | Problem: 29] := Path cost (depth - 1): 31 | Difference: 0 | Nodes: 4343 | ~38867ms elapsed | OR1 BU1 ER1 GU3 FR2 EL1 HU1 RR3 CD1 DL1 AD3 XR1 DR1 CU4 XL1 DL1 AU3 RL3 HD1 FL2 ER1 GD3 EL2 PD3 OR2 AU1 XR3 AD1 OL1 BU1 XR3
+[A*  | Problem: 29] := Path cost (depth - 1): 32 | Difference: 1 | Nodes: 4305 | ~3038ms elapsed | BU2 ER1 OR1 GU3 EL1 HU1 RR3 CD1 DL1 FR2 AD3 XR1 DR1 CU4 XL1 DL1 AU3 RL3 HD1 FL2 ER1 GD3 EL2 PD3 BD2 OR2 AU1 XR3 AD1 OL1 BU2 XR3
+[GHC | Problem: 29] := Path cost (depth - 1): 1 | Difference: -30 | Nodes: 1 | ~0ms elapsed | 1 steps
+[RHC | Problem: 29] := Path cost (depth - 1): 2 | Difference: -29 | Nodes: 80 | ~13ms elapsed | 75 restarts | 2 steps
+--------------------------------------------------------------------------------------------- Problem: 30
+[BFS | Problem: 30] := Path cost (depth - 1): 32 | Difference: 0 | Nodes: 1130 | ~149ms elapsed | DR1 CR1 FR1 ER1 OD3 XL1 AD1 PL3 QU3 DR1 FR1 BD3 DL1 QD2 PR3 AU1 XR3 OU3 CL1 EL1 AD4 CR1 OD2 PL3 QU2 DR1 XL2 BU4 DL1 FL1 QD3 XR5
+[ID  | Problem: 30] := Path cost (depth - 1): 32 | Difference: 0 | Nodes: 1156 | ~3738ms elapsed | QU1 FR2 ER1 DR1 CR1 OD3 XL1 AD1 PL1 QU2 DR1 BD3 DL1 QD1 PR1 AU1 XR3 OU3 EL1 CL1 AD4 XL2 CR1 OD1 PL3 QU1 DR1 BU4 FL1 DL1 QD3 XR5
+[A*  | Problem: 30] := Path cost (depth - 1): 33 | Difference: 1 | Nodes: 1118 | ~186ms elapsed | DR1 FR1 CR1 ER1 OD3 XL1 AD1 PL3 BU1 QU3 DR1 FR1 BD4 DL1 QD1 PR3 AU1 XR3 OU3 EL1 CL1 AD4 CR1 XL2 OD1 PL3 QU1 DR1 BU4 DL1 FL1 QD3 XR5
+[GHC | Problem: 30] := Path cost (depth - 1): 0 | Difference: -32 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 30] := Path cost (depth - 1): 2 | Difference: -30 | Nodes: 7 | ~4ms elapsed | 68 restarts | 2 steps
+--------------------------------------------------------------------------------------------- Problem: 31
+[BFS | Problem: 31] := Path cost (depth - 1): 37 | Difference: 0 | Nodes: 3915 | ~1443ms elapsed | AR1 DU2 XL1 QU2 FR3 QD2 XR1 DD4 AL1 XL1 QU3 EL3 BD1 CL1 PU1 FR1 BD1 QD3 XR3 QU3 ER1 DU3 EL1 QD3 AR1 DU1 XL3 BU1 QU2 FL4 BD1 QD2 XR3 QU2 RL3 PD2 XR3
+[ID  | Problem: 31] := Path cost (depth - 1): 37 | Difference: 0 | Nodes: 3876 | ~30346ms elapsed | AR1 DU2 XL1 QU2 FR3 QD2 XR1 DD4 XL1 AL1 QU3 EL3 QD3 BD1 CL1 PU1 FR1 BD1 XR3 QU3 ER1 DU3 EL1 QD3 AR1 DU1 XL3 QU2 BU1 FL4 QD2 BD1 XR3 QU1 RL1 PD2 XR3
+[A*  | Problem: 31] := Path cost (depth - 1): 38 | Difference: 1 | Nodes: 3772 | ~1748ms elapsed | AR1 DU2 XL1 QU2 FR3 QD2 XR1 DD4 XL1 AL1 QU3 EL3 QD3 BD1 CL4 PU1 FR1 BD1 XR3 CR3 QU3 ER1 DU3 EL1 QD3 AR1 DU1 XL3 QU2 BU1 FL4 BD1 QD2 XR3 QU1 RL2 PD2 XR3
+[GHC | Problem: 31] := Path cost (depth - 1): 0 | Difference: -37 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 31] := Path cost (depth - 1): 2 | Difference: -35 | Nodes: 24 | ~7ms elapsed | 51 restarts | 2 steps
+--------------------------------------------------------------------------------------------- Problem: 32
+[BFS | Problem: 32] := Path cost (depth - 1): 37 | Difference: 0 | Nodes: 552 | ~42ms elapsed | BD1 CL1 PU3 FR1 KU1 HR4 DD1 EL1 KD1 FL1 OD3 PD2 CR1 BU1 XR3 OU3 ER1 DU3 EL1 OD3 AR1 DU1 XL3 BD1 CL1 OU2 PU2 FR1 KU1 HL4 KD1 FL1 OD2 PD3 CR1 BU1 XR6
+[ID  | Problem: 32] := Path cost (depth - 1): 37 | Difference: 0 | Nodes: 579 | ~5657ms elapsed | BD1 CL1 PU3 FR1 KU1 HR4 KD1 FL1 PD1 DD1 EL1 OD3 CR1 BU1 XR3 OU3 ER1 DU3 EL1 OD3 AR1 DU1 XL3 OU1 BD1 CL1 PU1 FR1 KU1 HL4 OD1 KD1 FL1 PD3 CR1 BU1 XR6
+[A*  | Problem: 32] := Path cost (depth - 1): 37 | Difference: 0 | Nodes: 534 | ~50ms elapsed | BD1 CL1 PU3 FR1 KU1 HR4 KD1 FL1 PD1 CR1 BU1 DD1 EL1 OD3 XR3 OU3 ER1 DU3 EL1 OD3 AR1 DU1 XL3 BD1 CL1 PU1 FR1 KU1 OU2 HL4 OD2 KD1 FL1 PD3 CR1 BU1 XR6
+[GHC | Problem: 32] := Path cost (depth - 1): 0 | Difference: -37 | Nodes: 0 | ~1ms elapsed | 0 steps
+[RHC | Problem: 32] := Path cost (depth - 1): 3 | Difference: -34 | Nodes: 48 | ~7ms elapsed | 76 restarts | 3 steps
+--------------------------------------------------------------------------------------------- Problem: 33
+[BFS | Problem: 33] := Path cost (depth - 1): 40 | Difference: 0 | Nodes: 3985 | ~1732ms elapsed | BL1 PU3 ER1 GU3 QR1 ID1 DL1 EL2 HU3 ER2 FR3 GD2 QR2 RD3 BL1 HU1 XR3 AD1 BL2 RU3 DR1 IU3 DL1 RD3 BR2 AU1 IU1 XL3 GU2 RU2 FL4 GD2 RD2 XR3 RU2 QL3 GD1 EL1 PD3 XR3
+[ID  | Problem: 33] := Path cost (depth - 1): 40 | Difference: 0 | Nodes: 3906 | ~32306ms elapsed | BL1 PU3 ER1 GU3 QR1 ID1 DL1 EL2 HU3 QR2 FR3 ER2 RD3 GD2 XR2 AD1 BL3 HU1 XR1 RU3 DR1 IU3 DL1 RD3 BR2 IU1 AU1 XL3 RU2 GU1 FL4 RD2 GD1 XR3 RU1 QL3 GD1 EL1 PD3 XR3
+[A*  | Problem: 33] := Path cost (depth - 1): 41 | Difference: 1 | Nodes: 2915 | ~1270ms elapsed | BL1 PU3 ER1 GU1 QR1 ID1 DL1 GU2 EL2 HU3 ER2 QR2 FR3 RD3 BL1 HU1 GD2 XR3 AD1 BL2 RU3 DR1 IU3 DL1 RD3 BR2 IU1 AU1 XL3 GU2 RU2 FL4 RD2 GD2 XR3 RU2 QL3 GD1 EL1 PD3 XR3
+[GHC | Problem: 33] := Path cost (depth - 1): 0 | Difference: -40 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 33] := Path cost (depth - 1): 2 | Difference: -38 | Nodes: 48 | ~7ms elapsed | 54 restarts | 2 steps
+--------------------------------------------------------------------------------------------- Problem: 34
+[BFS | Problem: 34] := Path cost (depth - 1): 43 | Difference: 0 | Nodes: 4305 | ~1791ms elapsed | CU1 HR1 DD1 QR2 XR1 AD3 RL3 BU1 PU1 QR1 XL1 EU3 IR1 AD1 QL3 DU2 FL3 DD2 BD1 PD2 QR2 RR3 EU1 XR1 AU4 FL1 IL1 XL1 ED1 RL2 CU1 PU2 QR1 ED3 QL3 DU1 HL1 PD3 XR1 AD1 RL1 BU1 XR5
+[ID  | Problem: 34] := Path cost (depth - 1): 43 | Difference: 0 | Nodes: 4365 | ~58764ms elapsed | XR1 RL1 PU1 HR1 DD1 CU1 QR3 EU1 IR1 AD4 XL1 RL2 EU2 QL3 PD1 BU1 DU2 FL3 DD2 QR1 BD1 RR3 EU1 XR1 AU4 XL1 IL1 FL1 ED1 RL1 PU1 QR2 ED3 XR1 QL3 DU1 HL1 PD3 CD2 AD1 RL2 BU1 XR5
+[A*  | Problem: 34] := Path cost (depth - 1): 44 | Difference: 1 | Nodes: 4251 | ~1622ms elapsed | XR1 AD1 RL3 CU2 BU1 HR1 DD1 PU1 QR3 EU1 IR1 AD3 XL1 EU2 QL3 DU2 FL3 DD2 PD1 CD1 BD1 RR3 QR2 EU1 XR1 AU4 IL1 FL1 XL1 ED1 RL2 PU1 QR1 ED3 CU1 QL3 DU1 HL1 PD3 XR1 AD1 RL1 BU1 XR5
+[GHC | Problem: 34] := Path cost (depth - 1): 0 | Difference: -43 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 34] := Path cost (depth - 1): 3 | Difference: -40 | Nodes: 23 | ~4ms elapsed | 21 restarts | 3 steps
+--------------------------------------------------------------------------------------------- Problem: 35
+[BFS | Problem: 35] := Path cost (depth - 1): 43 | Difference: 0 | Nodes: 3904 | ~1444ms elapsed | FU3 GR1 KD1 PD1 AR1 BU1 QL1 EU2 DR3 ED2 BD1 AL1 PU1 QR3 KU1 GL1 OD3 XR1 KU3 XL1 OU3 QL3 PD1 AR1 BU1 EU2 DL4 ED2 BD1 AL1 FD3 PU1 QR3 OD3 AL2 BU1 XR3 KD2 AL1 OU3 QL2 PD3 XR3
+[ID  | Problem: 35] := Path cost (depth - 1): 43 | Difference: 0 | Nodes: 3889 | ~71193ms elapsed | PD1 GR1 KD1 QL1 FU3 AR1 BU1 EU2 GR3 DR3 ED2 BD1 AL1 PU1 QR3 OD3 XR1 KU4 XL1 OU3 QL3 PD1 AR1 BU1 EU2 GL4 DL4 FD3 ED2 BD1 AL1 PU1 QR3 OD3 XR1 KD1 AL3 BU1 XR2 OU3 QL1 PD3 XR3
+[A*  | Problem: 35] := Path cost (depth - 1): 45 | Difference: 2 | Nodes: 3933 | ~1693ms elapsed | GR1 KD1 QL1 PD1 EU1 AR1 FU3 GR3 BU1 EU1 DR3 ED2 BD1 AL1 PU1 QR3 OD3 XR1 KU4 XL1 OU3 QL3 PD1 AR1 BU1 EU2 DL4 GL4 PD2 ED2 BD1 AL1 PU3 QR3 OD3 AL2 FU1 BU1 XR3 KD1 AL1 OU3 QL1 PD3 XR3
+[GHC | Problem: 35] := Path cost (depth - 1): 1 | Difference: -42 | Nodes: 1 | ~0ms elapsed | 1 steps
+[RHC | Problem: 35] := Path cost (depth - 1): 2 | Difference: -41 | Nodes: 40 | ~5ms elapsed | 38 restarts | 2 steps
+--------------------------------------------------------------------------------------------- Problem: 36
+[BFS | Problem: 36] := Path cost (depth - 1): 44 | Difference: 0 | Nodes: 2416 | ~611ms elapsed | CR1 DD1 RR2 OD2 PL1 AL1 QU1 RR1 XR1 EU3 RL2 QD1 AR1 PR1 OU2 RL1 DU1 GR4 DD1 RR2 BD3 OD3 PL1 AL1 QU1 RR1 ED3 CL2 RL2 QD1 AR1 PR1 OU3 RL1 XL2 DU3 FL1 GL1 QD2 RR2 OD3 PL1 DU1 XR5
+[ID  | Problem: 36] := Path cost (depth - 1): 44 | Difference: 0 | Nodes: 2314 | ~26495ms elapsed | XR1 DD1 RR1 OD1 PL1 CR1 AL1 QU1 RR2 EU3 RL1 QD1 AR1 PR1 OU1 RL2 DU1 GR4 DD1 RR1 OD1 PL1 AL1 QU1 RR2 ED3 RL1 QD1 BD3 XL2 CL2 AR1 PR1 OU1 RL2 DU3 RR1 OD1 PL1 GL1 FL1 QD2 DU1 XR5
+[A*  | Problem: 36] := Path cost (depth - 1): 44 | Difference: 0 | Nodes: 2212 | ~594ms elapsed | CR1 DD1 RR1 XR1 OD1 PL1 AL1 QU1 RR2 EU3 RL2 QD1 AR1 PR1 OU1 RL1 DU1 GR4 DD1 RR1 OD2 PL1 AL1 QU1 RR2 ED3 RL1 QD1 AR1 PR1 BD3 CL2 OU2 RL2 XL2 DU3 RR1 OD2 PL1 GL1 FL1 QD2 DU1 XR5
+[GHC | Problem: 36] := Path cost (depth - 1): 0 | Difference: -44 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 36] := Path cost (depth - 1): 3 | Difference: -41 | Nodes: 6 | ~4ms elapsed | 36 restarts | 3 steps
+--------------------------------------------------------------------------------------------- Problem: 37
+[BFS | Problem: 37] := Path cost (depth - 1): 47 | Difference: 0 | Nodes: 1939 | ~417ms elapsed | GR1 QD1 XL1 BD1 CL2 OU1 PU1 RR2 BD2 DR1 XR1 QU2 GL1 BD1 RL2 OD1 CR1 AR1 QU1 RL1 EU3 HL1 RR1 QD2 AL1 CL1 DL1 OU1 RR2 BU1 GR1 QD1 XL1 BU2 FL3 RL2 OD2 PD3 CR2 BU1 EU1 XR2 QU1 GL1 HL1 OD1 XR4
+[ID  | Problem: 37] := Path cost (depth - 1): 47 | Difference: 0 | Nodes: 1970 | ~15044ms elapsed | GR1 QD1 XL1 BD1 CL2 PU1 OU1 RR2 BD2 XR1 QU1 GL1 DR1 BD1 RL2 OD1 CR1 AR1 QU2 RL1 EU3 RR1 QD1 HL1 AL1 CL1 OU1 RR2 BU1 GR1 QD2 XL1 DL1 BU2 RL2 OD1 FL2 PD3 CR2 EU1 BU1 XR1 QU1 GL1 HL1 OD2 XR5
+[A*  | Problem: 37] := Path cost (depth - 1): 47 | Difference: 0 | Nodes: 1918 | ~566ms elapsed | GR1 QD1 XL1 BD1 CL2 OU1 PU1 RR2 BD2 XR1 QU1 GL1 BD1 RL2 OD1 CR1 DR1 AR1 QU2 RL1 EU3 RR1 QD2 AL1 CL1 OU1 RR2 BU1 GR1 QD1 XL1 DL1 BU2 RL2 PD1 OD1 CR2 EU1 BU1 XR1 QU1 GL1 FL2 HL2 PD2 OD2 XR5
+[GHC | Problem: 37] := Path cost (depth - 1): 0 | Difference: -47 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 37] := Path cost (depth - 1): 3 | Difference: -44 | Nodes: 8 | ~1ms elapsed | 10 restarts | 3 steps
+--------------------------------------------------------------------------------------------- Problem: 38
+[BFS | Problem: 38] := Path cost (depth - 1): 48 | Difference: 0 | Nodes: 3667 | ~1133ms elapsed | OL2 RU2 ER1 CD1 BR2 DU1 FU1 GR1 QL3 CD2 EL1 RD1 OR2 DU1 XR3 AD3 XL3 DD1 OL3 RU1 ER1 CU2 QR3 AD1 FD1 DD1 BL3 CU2 DU1 EL4 CD2 DD1 BR3 RD1 OR3 DU2 ER1 XR1 AU4 EL1 XL1 FU2 GL4 CD1 FD1 QL3 RD2 XR6
+[ID  | Problem: 38] := Path cost (depth - 1): 48 | Difference: 0 | Nodes: 3561 | ~20682ms elapsed | OL1 RU2 GR1 ER1 CD1 BR2 DU1 FU1 QL3 CD2 EL1 RD1 OR1 DU1 XR1 AD3 XL1 DD1 OL1 RU1 ER1 CU1 QR3 FD1 DD1 BL3 DU1 CU2 AD1 EL4 RD1 OR1 DD1 CD1 BR3 DU2 XR1 ER1 AU4 XL1 EL1 FU2 QL1 GL4 RD2 FD1 CD1 XR6
+[A*  | Problem: 38] := Path cost (depth - 1): 49 | Difference: 1 | Nodes: 3489 | ~1163ms elapsed | OL2 RU2 GR1 ER1 CD2 BR2 DU1 FU1 QL3 CD1 EL1 RD1 OR2 DU1 XR1 AD3 XL1 DD1 OL2 RU1 ER1 CU1 QR3 FD1 DD1 BL3 DU1 AD1 CU2 EL4 DD1 CD2 RD1 OR2 BR3 DU2 XR3 ER1 AU4 XL3 EL1 FU2 CU1 GL4 QL2 RD2 CD1 FD1 XR6
+[GHC | Problem: 38] := Path cost (depth - 1): 0 | Difference: -48 | Nodes: 0 | ~1ms elapsed | 0 steps
+[RHC | Problem: 38] := Path cost (depth - 1): 3 | Difference: -45 | Nodes: 3 | ~1ms elapsed | 5 restarts | 3 steps
+--------------------------------------------------------------------------------------------- Problem: 39
+[BFS | Problem: 39] := Path cost (depth - 1): 50 | Difference: 0 | Nodes: 3583 | ~961ms elapsed | HR1 IR2 CD2 AD2 OL3 RU2 ER1 HR1 BD3 EL1 RD1 OR3 AU2 XR3 AD1 OL1 RU1 ER1 DR2 FU4 GU4 DL2 EL2 RD1 OR1 AU1 XL3 AD1 OL1 RU1 ER2 BU3 EL1 RD1 OR1 AU1 CU2 HL4 CD1 AD1 IL4 OL1 RU1 ER1 BD3 EL1 RD3 OR1 AU1 XR6
+[ID  | Problem: 39] := Path cost (depth - 1): 50 | Difference: 0 | Nodes: 3571 | ~82553ms elapsed | RU1 IR2 HR2 CD2 AD1 OL1 RU1 ER1 BD3 EL1 RD1 OR1 AU1 XR3 AD1 OL1 RU1 ER1 DR2 GU4 FU4 DL2 EL1 RD1 OR1 AU1 XL3 AD1 OL1 RU1 ER1 BU3 EL1 RD1 OR1 AU1 CU2 IL3 HL4 CD1 AD1 OL1 RU1 ER1 BD3 EL1 RD3 OR1 AU1 XR6
+[A*  | Problem: 39] := Path cost (depth - 1): 53 | Difference: 3 | Nodes: 3583 | ~781ms elapsed | RU1 HR2 CD1 AD1 OL1 RU1 ER1 IR2 BD3 EL1 RD1 OR1 AU1 XR3 AD1 OL1 RU1 CD1 ER1 DR2 GU4 FU4 DL2 EL1 RD1 OR1 AU1 XL3 AD1 OL1 RU1 ER1 BU3 EL2 RD1 OR1 AU1 ER1 CU2 HL4 CD1 AD1 OL1 RU1 ER1 BD2 IL4 BD1 EL1 RD3 OR1 AU1 XR6
+[GHC | Problem: 39] := Path cost (depth - 1): 1 | Difference: -49 | Nodes: 1 | ~0ms elapsed | 1 steps
+[RHC | Problem: 39] := Path cost (depth - 1): 3 | Difference: -47 | Nodes: 29 | ~7ms elapsed | 53 restarts | 3 steps
+--------------------------------------------------------------------------------------------- Problem: 40
+[BFS | Problem: 40] := Path cost (depth - 1): 51 | Difference: 0 | Nodes: 2952 | ~867ms elapsed | IR1 ED1 PU1 QR3 CD2 FU1 HR1 OD3 AL1 DU1 XL3 BD1 DD1 AR3 DU1 XR2 CU3 OU3 HL1 FD1 QL3 PD1 AR1 XL1 EU4 GL1 IL1 QR2 XR1 CD3 XL1 ED1 AL1 PU1 QR1 FU1 HR1 OD3 XL1 DD1 AL3 BU1 DU1 EU1 XR3 OU2 HL1 FD1 QL1 PD3 XR3
+[ID  | Problem: 40] := Path cost (depth - 1): 51 | Difference: 0 | Nodes: 2869 | ~36095ms elapsed | PU1 IR1 ED1 QR3 FU1 HR1 OD3 CD2 AL1 DU1 XL3 DD1 BD1 AR3 DU1 XR2 OU3 HL1 FD1 CU3 XL1 QL3 PD1 AR1 EU4 XR1 QR2 IL1 GL1 CD3 XL1 ED1 AL1 PU1 QR1 FU1 HR1 OD3 XL1 DD1 AL3 EU1 DU1 XR1 OU1 HL1 FD1 QL1 PD3 BU1 XR5
+[A*  | Problem: 40] := Path cost (depth - 1): 51 | Difference: 0 | Nodes: 2878 | ~978ms elapsed | IR1 PU1 ED1 QR3 FU1 HR1 OD3 CD2 AL1 DU1 XL3 DD1 BD1 AR3 DU1 XR2 OU3 HL1 CU3 FD1 QL3 PD1 AR1 XL1 EU4 XR1 QR2 CD3 XL1 ED1 AL1 PU1 QR1 FU1 HR1 OD3 XL1 DD1 AL3 BU1 DU1 EU1 IL1 XR2 OU2 GL1 HL1 FD1 QL1 PD3 XR4
+[GHC | Problem: 40] := Path cost (depth - 1): 0 | Difference: 2 | Nodes: 0 | ~0ms elapsed | 0 steps
+[RHC | Problem: 40] := Path cost (depth - 1): 3 | Difference: 5 | Nodes: 12 | ~3ms elapsed | 24 restarts | 3 steps
