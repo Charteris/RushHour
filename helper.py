@@ -6,25 +6,27 @@ from typing import List, Tuple
 def init(screen: turtle.Screen) -> Tuple[List[turtle.Turtle], List[turtle.Turtle], turtle.Turtle]:
     # Implement vehicle sprites and create vehicles
     cars, trucks = [], []
+    directory = 'Images/'
+
     for i in range(11):
         # Vehicles initially inactive until board is drawn
         string = 'Car' + chr(ord('A') + i) + '.gif'
-        screen.register_shape(string)
-        screen.register_shape('S' + string)
+        screen.register_shape(directory + string)
+        screen.register_shape(directory + 'S' + string)
         cars.append(boardSetup.vehicle(string))
         cars[len(cars) - 1].active = 0
         cars[len(cars) - 1].dir = 0
 
     for i in range(4):
         string = 'Truck' + chr(ord('O') + i) + '.gif'
-        screen.register_shape(string)
-        screen.register_shape('S' + string)
+        screen.register_shape(directory + string)
+        screen.register_shape(directory + 'S' + string)
         trucks.append(boardSetup.vehicle(string))
         trucks[len(trucks) - 1].active = 0
         trucks[len(trucks) - 1].dir = 0
 
-    screen.register_shape('CarX.gif')
-    screen.register_shape('SCarX.gif')
+    screen.register_shape('Images/CarX.gif')
+    screen.register_shape('Images/SCarX.gif')
     target = boardSetup.vehicle('CarX.gif')
     target.active = 1
     target.dir = 0
@@ -49,7 +51,7 @@ class Node:
 def moveVehicle(vehicle: str, x: int, y: int, scale: int, shape: str, dir: int) -> None:
     # Set position and direction (shape), as well as setting as active
     vehicle.setposition(scale / 2 + x, scale*3 + y - scale / 2)
-    vehicle.shape(shape)
+    vehicle.shape('Images/' + shape)
     vehicle.showturtle()
     vehicle.dir = dir # 0 is vertical, 1 is horizontal
     vehicle.active = 1

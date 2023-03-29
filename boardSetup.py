@@ -90,7 +90,7 @@ def setupBoard(x:int, y:int, scale: int, title: str, screen: turtle.Screen) -> t
 def vehicle(shape: str) -> turtle.Turtle:
     vehicle = turtle.Turtle()
     vehicle.penup()
-    vehicle.shape(shape)
+    vehicle.shape('Images/' + shape)
     vehicle.hideturtle()
     return vehicle
 
